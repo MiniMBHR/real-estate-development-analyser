@@ -9,7 +9,6 @@ Original file is located at
 
 # REAL ESTATE DEVELOPMENT ANALYSER
 
-!pip -q install gradio pandas numpy scikit-learn plotly
 
 import gradio as gr
 import pandas as pd
